@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03/sd-gs/sd-gs-17/","created":"2025-05-22T13:13:21.556+08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/03/sd-gs/sd-gs-17/","dg-note-properties":{}}
 ---
 
 
