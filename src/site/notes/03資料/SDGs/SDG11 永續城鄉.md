@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03/sd-gs/sdg-11/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/03/sd-gs/sdg-11/","dgPassFrontmatter":true,"updated":"2026-05-29T10:17:21.766+08:00","dg-note-properties":{}}
 ---
 
 ![sdgs11.jpg\|200](/img/user/Attachment/sdgs11.jpg)
